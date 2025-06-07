@@ -346,15 +346,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the easy-to-use web framework
 - [Gemma](https://ai.google.dev/gemma) for the language model
 
-## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-chatbot)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-chatbot)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-chatbot)
-![GitHub license](https://img.shields.io/github/license/yourusername/ai-chatbot)
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Harsh Gidwani](https://github.com/harsh-codess)**
 
-*If you find this project helpful, please give it a ⭐ star!*
+
