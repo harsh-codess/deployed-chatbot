@@ -2,7 +2,7 @@
 
 A production-ready chatbot built with LangChain, Groq AI, and multiple deployment options. This chatbot features conversational memory, message history management, and can be deployed as both a Streamlit web app and Flask API.
 
-![AI Chatbot Demo](https://github.com/yourusername/ai-chatbot/raw/main/assets/chatbot-demo.png)
+![AI Chatbot Demo](pictures/demo.png)
 
 ## ✨ Features
 
@@ -17,10 +17,10 @@ A production-ready chatbot built with LangChain, Groq AI, and multiple deploymen
 ## 🎯 Demo
 
 ### Streamlit Web Interface
-![Streamlit Interface](https://github.com/yourusername/ai-chatbot/raw/main/assets/streamlit-demo.png)
+![AI Chatbot Demo](pictures/demo.png)
 
 ### Configuration Panel
-![Configuration](https://github.com/yourusername/ai-chatbot/raw/main/assets/config-panel.png)
+![Configuration Panel](pictures/how%20to%20use.png)
 
 ## 📁 Project Structure
 
