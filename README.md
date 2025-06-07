@@ -1,5 +1,9 @@
 # 🤖 AI Chatbot with LangChain & Groq
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=streamlit)](https://harsh-codess-chatbot.streamlit.app/)
+
+> **🎯 [Try the Live Demo Now!](https://harsh-codess-chatbot.streamlit.app/)** - Chat with the AI assistant instantly, no setup required!
+
 A production-ready chatbot built with LangChain, Groq AI, and multiple deployment options. This chatbot features conversational memory, message history management, and can be deployed as both a Streamlit web app and Flask API.
 
 ![AI Chatbot Demo](pictures/demo.png)
@@ -15,6 +19,9 @@ A production-ready chatbot built with LangChain, Groq AI, and multiple deploymen
 - 🌍 **Multi-language Support** - Responds in different languages
 
 ## 🎯 Demo
+
+> **🌟 [Live Demo Available Here](https://harsh-codess-chatbot.streamlit.app/)**  
+> Experience the chatbot in action without any installation!
 
 ### Streamlit Web Interface
 ![AI Chatbot Demo](pictures/demo.png)
@@ -351,5 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ by [Harsh Gidwani](https://github.com/harsh-codess)**
+
+*If you find this project helpful, please give it a ⭐ star!*
 
 
