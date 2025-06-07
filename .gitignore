@@ -1,4 +1,4 @@
-# Environment variables and secrets
+# Environment variables and API keys
 .env
 .env.local
 .env.development
@@ -6,17 +6,19 @@
 .env.production
 *.env
 
-# API Keys and sensitive files
+# API key files
 *api_key*
-*secret*
-config.ini
-secrets.json
+*apikey*
+secrets.txt
+config.json
 
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -30,30 +32,23 @@ parts/
 sdist/
 var/
 wheels/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
-# Virtual environments
-venv/
-env/
-ENV/
-env.bak/
-venv.bak/
-.venv/
+# PyInstaller
+*.manifest
+*.spec
 
-# Jupyter Notebook
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
 
-# IDEs
+# VS Code
 .vscode/
-.idea/
-*.swp
-*.swo
-*~
+
+# Local development files
+test_keys.py
+local_config.py
 
 # Operating System
 .DS_Store
